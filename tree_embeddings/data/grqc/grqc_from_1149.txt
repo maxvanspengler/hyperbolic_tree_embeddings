@@ -1,0 +1,4 @@
+Maximum absolute relative distortion: 11.0
+Mean distortion: 0.3111654675483735
+Worst case distortion: 48.0
+Max path length of tree: 17.0
